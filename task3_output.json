@@ -1,0 +1,45 @@
+{
+    "definitions": [
+        "descriptor has the meaning in regulation 44(1)",
+        "health and social care services means health and social care within the meaning of the Health and Social Care (Reform) Act (Northern Ireland) 2009 provided for the purposes of the system promoted under section 2(1) of that Act",
+        "health and social care services means health care services provided for the purposes of the health service continued under section 1(1) of the National Health Service Act 2006 and section 1(1) of the National Health Service (Wales) Act 2006",
+        "severe conditions criteria claimant has the meaning in regulation 41A(2)",
+        "pre-2026 claimant has the meaning in regulation 28A(1)",
+        "pre-2026 claimant has the meaning in regulation 27A(1)",
+        "severe conditions criteria claimant has the meaning in regulation 40A(2)",
+        "severe conditions criteria claimant has the meaning in regulation 41A(2)"
+    ],
+    "eligibility": [
+        "The protected LCWRA amount for a pre-2026 claimant, severe conditions criteria claimant, or terminally ill claimant is defined as the LCWRA element applicable under the Universal Credit Regulations 2013.",
+        "A pre-2026 claimant is defined as someone entitled to an Universal Credit award including the LCWRA element before 6 April 2026.",
+        "A severe conditions criteria claimant is defined as someone entitled to an Universal Credit award including the LCWRA element under the severe conditions criteria.",
+        "The standard allowance is the amount included in an award of Universal Credit under section 9(1) of the Welfare Reform Act 2012.",
+        "The LCWRA element's meaning is as per regulation 28 of the Universal Credit Regulations 2013.",
+        "The protected LCWRA amount for tax years 2026-27 to 2029-30 includes the LCWRA element for pre-2026 claimants, severe conditions criteria claimants, or terminally ill claimants.",
+        "The LCWRA element for each claimant is considered if it is a higher amount for different claimants."
+    ],
+    "payments": [
+        "The LCWRA element for tax year 2026-27 is amended to include conditions based on claimant status (pre-2026, severe conditions criteria, terminally ill, or other).",
+        "ESA IR disability premium, support component, and work-related activity component amounts are calculated based on prescribed values under section 4(2)(a) of the Welfare Reform Act 2007 and relevant CPI percentages.",
+        "Annual up-rating of benefits under the Social Security Administration Act 1992 does not apply for tax years 2026-27 to 2029-30 to ESA IR components (disability premium, support, work-related activity).",
+        "The ESA IR personal allowance is prescribed under section 4(2)(a) of the Welfare Reform Act 2007, with adjustments allowed for specific tax years via section 4(6)(c) of the same act.",
+        "Protected amounts for ESA IR calculations include the personal allowance and disability premium, adjusted by CPI and welfare reform powers as specified in the Welfare Reform Act 2007."
+    ],
+    "obligations": [
+        "The Secretary of State must ensure that descriptors apply to claimants as specified in the regulation.",
+        "The Secretary of State must enforce the regulations, including provisions related to severe conditions criteria claimants.",
+        "The Secretary of State must conduct assessments for claimants who are severe conditions criteria claimants.",
+        "The Secretary of State must ensure that health and social care services are administered in accordance with the defined criteria.",
+        "The Secretary of State must manage Northern Ireland provisions as per Schedule 2 of the Act.",
+        "The Secretary of State must ensure that NHS services are covered under the defined criteria.",
+        "The Secretary of State must handle information requirements, including severe conditions criteria claimants.",
+        "The Secretary of State must manage medical examination requirements, including severe conditions criteria claimants."
+    ],
+    "enforcement": [],
+    "record_keeping": [
+        "The relevant uplift percentage for a tax year is determined by the difference between the consumer prices index for the September before the start of the tax year and the same period last year, or 0% if not higher.",
+        "The table in paragraph 4 sets out the relevant uplift percentage for tax years 2026-27 to 2029-30 as 2.3%, 3.1%, 4.0%, and 4.8% respectively.",
+        "The standard allowance for a tax year is adjusted by the relevant CPI percentage, which is calculated based on the consumer prices index for the September before the start of the tax year.",
+        "The relevant CPI percentage for a tax year is the percentage by which the consumer prices index for the September before the start of the tax year is higher than the index for the same period last year, or 0% if not higher."
+    ]
+}

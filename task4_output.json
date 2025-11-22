@@ -1,0 +1,38 @@
+[
+    {
+        "rule": "Act must define key terms",
+        "status": "PASS",
+        "evidence": "Section 1(1) of the National Health Service Act 2006 defines 'NHS services' as health care services provided for the purposes of the health service continued under...",
+        "confidence": 0.95
+    },
+    {
+        "rule": "Act must define key terms",
+        "status": "PASS",
+        "evidence": "Section 2: 'severe conditions criteria claimant has the meaning in regulation 40A(2); pre-2026 claimant has the meaning in regulation 27A(1)'",
+        "confidence": 0.95
+    },
+    {
+        "rule": "Act must specify responsibilities of the administering authority",
+        "status": "FAIL",
+        "evidence": "No matching section found",
+        "confidence": 0.4
+    },
+    {
+        "rule": "Act must include enforcement or penalties",
+        "status": "INCONCLUSIVE",
+        "evidence": "Section 27 (award to include LCWRA element)\u2014(b) in paragraph (3), after 'activity' insert 'or is a severe conditions criteria claimant'; (c) in paragraph (4)\u2013...",
+        "confidence": 0.65
+    },
+    {
+        "rule": "Act must include payment calculation or entitlement structure",
+        "status": "PASS",
+        "evidence": "Section 3(3)(a): 'the sum of those amounts for the previous tax year, by the relevant CPI percentage for the current tax year'",
+        "confidence": 0.95
+    },
+    {
+        "rule": "Act must include record-keeping or reporting requirements",
+        "status": "FAIL",
+        "evidence": "No matching section found",
+        "confidence": 0.4
+    }
+]
