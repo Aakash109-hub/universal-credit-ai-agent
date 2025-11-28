@@ -1,6 +1,6 @@
 # Universal Credit Act 2025 – AI Legal Analysis Agent
 
-This project is an AI-powered pipeline that analyzes the **Universal Credit Act 2025** using **LangChain**, **FAISS**, **HuggingFace embeddings**, and **Ollama** models.
+This project is an AI-powered pipeline that analyses the **Universal Credit Act 2025** using **LangChain**, **FAISS**, **HuggingFace embeddings**, and **Ollama** models.
 
 It was built as part of the **NIYAMR 48-hour AI Intern Assignment**.
 
@@ -16,7 +16,7 @@ The system performs **four major tasks**:
 * Splits it into meaningful text chunks
 * Prepares data for retrieval
 
-### **✅ Task 2 – Act Summarization**
+### **✅ Task 2 – Act Summarisation**
 
 Generates a clear 5–10 bullet summary including:
 
@@ -49,8 +49,8 @@ task3_output.json
 Evaluates **six compliance rules**:
 
 1. Act must define key terms
-2. Act must specify eligibility criteria
-3. Act must specify authority responsibilities
+2. Act must specify the eligibility criteria
+3. Act must specify authority's responsibilities
 4. Act must include enforcement or penalties
 5. Act must define payment and entitlement rules
 6. Act must include record-keeping or reporting rules
