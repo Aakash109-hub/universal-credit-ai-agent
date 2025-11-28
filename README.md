@@ -48,12 +48,12 @@ task3_output.json
 
 Evaluates **six compliance rules**:
 
-1. Act must define key terms
-2. Act must specify the eligibility criteria
-3. Act must specify authority's responsibilities
-4. Act must include enforcement or penalties
-5. Act must define payment and entitlement rules
-6. Act must include record-keeping or reporting rules
+1. The Act must define key terms
+2. The Act must specify the eligibility criteria
+3. The Act must specify the authority's responsibilities
+4. The act must include enforcement or penalties
+5. The Act must define payment and entitlement rules
+6. The act must include record-keeping or reporting rules
 
 For each rule, the system returns:
 
